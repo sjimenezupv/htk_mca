@@ -1,0 +1,10 @@
+HHEd -A -T 1 -C /mnt/w/BIOITACA/TESIS/2022/Tesis_Experimentacion/001_MCA/HTK_MCA_Tesis/linux_scripts/config/HTK.config -H /mnt/w/BIOITACA/TESIS/2022/Tesis_Experimentacion/001_MCA/HTK_MCA_Tesis/linux_scripts/HMMFiles/NumSt50/HMM3/CONTROL.hmm -H /mnt/w/BIOITACA/TESIS/2022/Tesis_Experimentacion/001_MCA/HTK_MCA_Tesis/linux_scripts/HMMFiles/NumSt50/HMM3/PACIENTE.hmm -H /mnt/w/BIOITACA/TESIS/2022/Tesis_Experimentacion/001_MCA/HTK_MCA_Tesis/linux_scripts/HMMFiles/NumSt50/HMM3/vFloors -M /mnt/w/BIOITACA/TESIS/2022/Tesis_Experimentacion/001_MCA/HTK_MCA_Tesis/linux_scripts/HMMFiles/NumSt50/HMM4 /mnt/w/BIOITACA/TESIS/2022/Tesis_Experimentacion/001_MCA/HTK_MCA_Tesis/linux_scripts/config/edition01.hed /mnt/w/BIOITACA/TESIS/2022/Tesis_Experimentacion/001_MCA/HTK_MCA_Tesis/linux_scripts/config/units 
+HHEd
+ 2/2 Models Loaded [50 states max, 1 mixes max]
+
+MU 2 {}
+ Mixup to 2 components per stream
+ MU: Number of mixes increased from 6 to 12
+
+Saving new HMM files ...
+Edit Complete

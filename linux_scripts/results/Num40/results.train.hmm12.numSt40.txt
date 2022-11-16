@@ -1,0 +1,15 @@
+HResults -A -D -T 1 -I /mnt/w/BIOITACA/TESIS/2022/Tesis_Experimentacion/001_MCA/HTK_MCA_Tesis/data/train.mlf /mnt/w/BIOITACA/TESIS/2022/Tesis_Experimentacion/001_MCA/HTK_MCA_Tesis/linux_scripts/config/units /mnt/w/BIOITACA/TESIS/2022/Tesis_Experimentacion/001_MCA/HTK_MCA_Tesis/linux_scripts/results/Num40/reco.train.hmm12.numSt40.mlf 
+
+No HTK Configuration Parameters Set
+
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 16 10:06:35 2022
+  Ref : >TESIS/2022/Tesis_Experimentacion/001_MCA/HTK_MCA_Tesis/data/train.mlf
+  Rec : >TK_MCA_Tesis/linux_scripts/results/Num40/reco.train.hmm12.numSt40.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=85.25 [H=52, S=9, N=61]
+WORD: %Corr=85.25, Acc=85.25 [H=52, D=0, S=9, I=0, N=61]
+===================================================================
+
+No HTK Configuration Parameters Set
+

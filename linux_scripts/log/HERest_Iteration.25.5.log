@@ -1,0 +1,143 @@
+HERest -A -D -T 1 -s /mnt/w/BIOITACA/TESIS/2022/Tesis_Experimentacion/001_MCA/HTK_MCA_Tesis/linux_scripts/results/Num25/herest.25.5.stats -C /mnt/w/BIOITACA/TESIS/2022/Tesis_Experimentacion/001_MCA/HTK_MCA_Tesis/linux_scripts/config/HTK.config -I /mnt/w/BIOITACA/TESIS/2022/Tesis_Experimentacion/001_MCA/HTK_MCA_Tesis/data/train.mlf -S /mnt/w/BIOITACA/TESIS/2022/Tesis_Experimentacion/001_MCA/HTK_MCA_Tesis/data/mfclist.train -H /mnt/w/BIOITACA/TESIS/2022/Tesis_Experimentacion/001_MCA/HTK_MCA_Tesis/linux_scripts/HMMFiles/NumSt25/HMM4/CONTROL.hmm -H /mnt/w/BIOITACA/TESIS/2022/Tesis_Experimentacion/001_MCA/HTK_MCA_Tesis/linux_scripts/HMMFiles/NumSt25/HMM4/PACIENTE.hmm -H /mnt/w/BIOITACA/TESIS/2022/Tesis_Experimentacion/001_MCA/HTK_MCA_Tesis/linux_scripts/HMMFiles/NumSt25/HMM4/vFloors -L /mnt/w/BIOITACA/TESIS/2022/Tesis_Experimentacion/001_MCA/HTK_MCA_Tesis/data/LAB -M /mnt/w/BIOITACA/TESIS/2022/Tesis_Experimentacion/001_MCA/HTK_MCA_Tesis/linux_scripts/HMMFiles/NumSt25/HMM5 /mnt/w/BIOITACA/TESIS/2022/Tesis_Experimentacion/001_MCA/HTK_MCA_Tesis/linux_scripts/config/units 
+
+HTK Configuration Parameters[1]
+  Module/Tool     Parameter                  Value
+#                 TARGETKIND                  USER
+
+HERest  ML Updating: Transitions Means Variances MixWeights 
+
+ System is PLAIN
+2 Logical/2 Physical Models Loaded, VecSize=42
+3 MMF input files
+Pruning-Off
+ Processing Data: CONTROLES.MCA.1295057.mfc; Label CONTROLES.MCA.1295057.lab
+ Utterance prob per frame = 9.896520e+01
+ Processing Data: CONTROLES.MCA.1532571.mfc; Label CONTROLES.MCA.1532571.lab
+ Utterance prob per frame = 1.029091e+02
+ Processing Data: CONTROLES.MCA.1626494.mfc; Label CONTROLES.MCA.1626494.lab
+ Utterance prob per frame = 1.185395e+02
+ Processing Data: CONTROLES.MCA.1656915.mfc; Label CONTROLES.MCA.1656915.lab
+ Utterance prob per frame = 8.837862e+01
+ Processing Data: CONTROLES.MCA.2098524.mfc; Label CONTROLES.MCA.2098524.lab
+ Utterance prob per frame = 7.615362e+01
+ Processing Data: CONTROLES.MCA.3124964.mfc; Label CONTROLES.MCA.3124964.lab
+ Utterance prob per frame = 8.614679e+01
+ Processing Data: CONTROLES.MCA.3526541.mfc; Label CONTROLES.MCA.3526541.lab
+ Utterance prob per frame = 8.608647e+01
+ Processing Data: CONTROLES.MCA.4137166.mfc; Label CONTROLES.MCA.4137166.lab
+ Utterance prob per frame = 8.486432e+01
+ Processing Data: CONTROLES.MCA.4174904.mfc; Label CONTROLES.MCA.4174904.lab
+ Utterance prob per frame = 9.632835e+01
+ Processing Data: CONTROLES.MCA.6177252.mfc; Label CONTROLES.MCA.6177252.lab
+ Utterance prob per frame = 8.822235e+01
+ Processing Data: CONTROLES.MCA.6201042.mfc; Label CONTROLES.MCA.6201042.lab
+ Utterance prob per frame = 8.730325e+01
+ Processing Data: CONTROLES.MCA.6235678.mfc; Label CONTROLES.MCA.6235678.lab
+ Utterance prob per frame = 9.635977e+01
+ Processing Data: CONTROLES.MCA.6273167.mfc; Label CONTROLES.MCA.6273167.lab
+ Utterance prob per frame = 9.952278e+01
+ Processing Data: CONTROLES.MCA.6274893.mfc; Label CONTROLES.MCA.6274893.lab
+ Utterance prob per frame = 8.587764e+01
+ Processing Data: CONTROLES.MCA.6282464.mfc; Label CONTROLES.MCA.6282464.lab
+ Utterance prob per frame = 9.625488e+01
+ Processing Data: CONTROLES.MCA.6287361.mfc; Label CONTROLES.MCA.6287361.lab
+ Utterance prob per frame = 9.092334e+01
+ Processing Data: CONTROLES.MCA.6323861.mfc; Label CONTROLES.MCA.6323861.lab
+ Utterance prob per frame = 9.775444e+01
+ Processing Data: CONTROLES.MCA.6323864.mfc; Label CONTROLES.MCA.6323864.lab
+ Utterance prob per frame = 8.444042e+01
+ Processing Data: CONTROLES.MCA.6326339.mfc; Label CONTROLES.MCA.6326339.lab
+ Utterance prob per frame = 9.194982e+01
+ Processing Data: CONTROLES.MCA.6331864.mfc; Label CONTROLES.MCA.6331864.lab
+ Utterance prob per frame = 8.582657e+01
+ Processing Data: CONTROLES.MCA.6336349.mfc; Label CONTROLES.MCA.6336349.lab
+ Utterance prob per frame = 9.350926e+01
+ Processing Data: CONTROLES.MCA.6336352.mfc; Label CONTROLES.MCA.6336352.lab
+ Utterance prob per frame = 8.963585e+01
+ Processing Data: CONTROLES.MCA.6385548.mfc; Label CONTROLES.MCA.6385548.lab
+ Utterance prob per frame = 8.185917e+01
+ Processing Data: CONTROLES.MCA.6385552.mfc; Label CONTROLES.MCA.6385552.lab
+ Utterance prob per frame = 6.040510e+01
+ Processing Data: CONTROLES.MCA.6411674.mfc; Label CONTROLES.MCA.6411674.lab
+ Utterance prob per frame = 1.046368e+02
+ Processing Data: CONTROLES.MCA.6460226.mfc; Label CONTROLES.MCA.6460226.lab
+ Utterance prob per frame = 7.765763e+01
+ Processing Data: CONTROLES.MCA.6460231.mfc; Label CONTROLES.MCA.6460231.lab
+ Utterance prob per frame = 8.496718e+01
+ Processing Data: CONTROLES.MCA.6461279.mfc; Label CONTROLES.MCA.6461279.lab
+ Utterance prob per frame = 9.429871e+01
+ Processing Data: CONTROLES.MCA.6500137.mfc; Label CONTROLES.MCA.6500137.lab
+ Utterance prob per frame = 6.453190e+01
+ Processing Data: CONTROLES.MCA.6535750.mfc; Label CONTROLES.MCA.6535750.lab
+ Utterance prob per frame = 9.029344e+01
+ Processing Data: CONTROLES.MCA.6633813.mfc; Label CONTROLES.MCA.6633813.lab
+ Utterance prob per frame = 8.979016e+01
+ Processing Data: CONTROLES.MCA.6633819.mfc; Label CONTROLES.MCA.6633819.lab
+ Utterance prob per frame = 8.233847e+01
+ Processing Data: PACIENTES.biV.1371379.mfc; Label PACIENTES.biV.1371379.lab
+ Utterance prob per frame = 9.362563e+01
+ Processing Data: PACIENTES.biV.1379101.mfc; Label PACIENTES.biV.1379101.lab
+ Utterance prob per frame = 1.039994e+02
+ Processing Data: PACIENTES.biV.1445671.mfc; Label PACIENTES.biV.1445671.lab
+ Utterance prob per frame = 1.045642e+02
+ Processing Data: PACIENTES.biV.1674556.mfc; Label PACIENTES.biV.1674556.lab
+ Utterance prob per frame = 1.065903e+02
+ Processing Data: PACIENTES.biV.4505642.mfc; Label PACIENTES.biV.4505642.lab
+ Utterance prob per frame = 1.125412e+02
+ Processing Data: PACIENTES.biV.6190472.mfc; Label PACIENTES.biV.6190472.lab
+ Utterance prob per frame = 1.069449e+02
+ Processing Data: PACIENTES.biV.6218318.mfc; Label PACIENTES.biV.6218318.lab
+ Utterance prob per frame = 9.500345e+01
+ Processing Data: PACIENTES.biV.6218352.mfc; Label PACIENTES.biV.6218352.lab
+ Utterance prob per frame = 9.052527e+01
+ Processing Data: PACIENTES.biV.6528495.mfc; Label PACIENTES.biV.6528495.lab
+ Utterance prob per frame = 9.525856e+01
+ Processing Data: PACIENTES.biV.6529777.mfc; Label PACIENTES.biV.6529777.lab
+ Utterance prob per frame = 9.501814e+01
+ Processing Data: PACIENTES.biV.6696393.mfc; Label PACIENTES.biV.6696393.lab
+ Utterance prob per frame = 1.015121e+02
+ Processing Data: PACIENTES.VI.1327986.mfc; Label PACIENTES.VI.1327986.lab
+ Utterance prob per frame = 1.015150e+02
+ Processing Data: PACIENTES.VI.1665794.mfc; Label PACIENTES.VI.1665794.lab
+ Utterance prob per frame = 1.095703e+02
+ Processing Data: PACIENTES.VI.2237807.mfc; Label PACIENTES.VI.2237807.lab
+ Utterance prob per frame = 1.129132e+02
+ Processing Data: PACIENTES.VI.6124653.mfc; Label PACIENTES.VI.6124653.lab
+ Utterance prob per frame = 8.711730e+01
+ Processing Data: PACIENTES.VI.6191707.mfc; Label PACIENTES.VI.6191707.lab
+ Utterance prob per frame = 9.472957e+01
+ Processing Data: PACIENTES.VI.6198673.mfc; Label PACIENTES.VI.6198673.lab
+ Utterance prob per frame = 8.699027e+01
+ Processing Data: PACIENTES.VI.6212030.mfc; Label PACIENTES.VI.6212030.lab
+ Utterance prob per frame = 9.651996e+01
+ Processing Data: PACIENTES.VI.6246279.mfc; Label PACIENTES.VI.6246279.lab
+ Utterance prob per frame = 9.308279e+01
+ Processing Data: PACIENTES.VI.6260089.mfc; Label PACIENTES.VI.6260089.lab
+ Utterance prob per frame = 1.049082e+02
+ Processing Data: PACIENTES.VI.6260092.mfc; Label PACIENTES.VI.6260092.lab
+ Utterance prob per frame = 9.896067e+01
+ Processing Data: PACIENTES.VI.6287357.mfc; Label PACIENTES.VI.6287357.lab
+ Utterance prob per frame = 8.704061e+01
+ Processing Data: PACIENTES.VI.6307384.mfc; Label PACIENTES.VI.6307384.lab
+ Utterance prob per frame = 6.798251e+01
+ Processing Data: PACIENTES.VI.6326340.mfc; Label PACIENTES.VI.6326340.lab
+ Utterance prob per frame = 8.348810e+01
+ Processing Data: PACIENTES.VI.6370679.mfc; Label PACIENTES.VI.6370679.lab
+ Utterance prob per frame = 8.231261e+01
+ Processing Data: PACIENTES.VI.6385550.mfc; Label PACIENTES.VI.6385550.lab
+ Utterance prob per frame = 9.328795e+01
+ Processing Data: PACIENTES.VI.6438018.mfc; Label PACIENTES.VI.6438018.lab
+ Utterance prob per frame = 1.094489e+02
+ Processing Data: PACIENTES.VI.6439910.mfc; Label PACIENTES.VI.6439910.lab
+ Utterance prob per frame = 1.042967e+02
+ Processing Data: PACIENTES.VI.6672379.mfc; Label PACIENTES.VI.6672379.lab
+ Utterance prob per frame = 1.200412e+02
+Total 35 floored variance elements in 16 different mixes
+Saving hmm's to dir /mnt/w/BIOITACA/TESIS/2022/Tesis_Experimentacion/001_MCA/HTK_MCA_Tesis/linux_scripts/HMMFiles/NumSt25/HMM5
+Reestimation complete - average log prob per frame = 9.338557e+01
+     - total frames seen          = 2.745000e+05
+
+HTK Configuration Parameters[1]
+  Module/Tool     Parameter                  Value
+                  TARGETKIND                  USER
+
