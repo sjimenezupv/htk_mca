@@ -1,0 +1,6 @@
+/* 
+ * Task grammar 
+ */ 
+$WORD = CONTROL | PACIENTE; 
+ ( $WORD ) 
+ 
